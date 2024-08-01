@@ -1,6 +1,6 @@
 ## About Me
 
-Hi there! I'm RAHUL PRAKASH, a passionate software and web developer with a knack for creating efficient, scalable, and user-friendly applications. With a strong background in various programming languages and frameworks, I enjoy tackling complex problems and bringing innovative ideas to life. Whether it's developing responsive web interfaces, building robust backend systems, or diving into the latest technologies, I'm always eager to learn and grow.
+Hi there! I'm RAHUL PRAKASH, a passionate web developer with a knack for creating efficient, scalable, and user-friendly applications. With a strong background in various programming languages and frameworks, I enjoy tackling complex problems and bringing innovative ideas to life. Whether it's developing responsive web interfaces, building robust backend systems, or diving into the latest technologies, I'm always eager to learn and grow.
 
 ### Skills & Technologies:
 - **Languages:** JavaScript, Python, C++,C
