@@ -1,4 +1,4 @@
-## About Me
+## 💫 About Me:
 
 Hi there! I'm RAHUL PRAKASH, a passionate web developer with a knack for creating efficient, scalable, and user-friendly applications. With a strong background in various programming languages and frameworks, I enjoy tackling complex problems and bringing innovative ideas to life. Whether it's developing responsive web interfaces, building robust backend systems, or diving into the latest technologies, I'm always eager to learn and grow.
 
@@ -16,6 +16,12 @@ Hi there! I'm RAHUL PRAKASH, a passionate web developer with a knack for creatin
 - **Crypto React App:** Our Crypto React App provides real-time cryptocurrency data, price tracking, and market analysis. Featuring an intuitive interface and advanced charting tools, it helps you stay informed and make smart investment decisions in the dynamic crypto market.
 
 I'm always open to collaborating on exciting projects and learning from fellow developers. Feel free to reach out or explore my repositories!
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rahulprakash01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=rahulprakash01&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### Contact Me:
 - **Email:** rahulprakash80022@gmail.com
